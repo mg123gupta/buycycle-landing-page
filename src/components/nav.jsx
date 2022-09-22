@@ -5,7 +5,7 @@ export default function Nav() {
 	return (
 		<div className="flex flex-col md:flex-row uppercase justify-between max-w-3xl mx-auto items-center">
 			<div className="flex items-center font-bold text-xs md:text-sm">
-				<img src="https://winmagictoys.com/wp-content/uploads/2018/09/dummy-logo.png" height="100" width="100" alt="logo" className="mx-2 md:mx-4" />
+				<img src="https://uilogos.co/img/logotype/hexa.png" height="100" width="100" alt="logo" className="mx-2 md:mx-4" />
 				<Link to="/" aria-label="Home" className="mx-2 md:mx-4">Home</Link>
 				<a href="#product" aria-label="Products" className="mx-2 md:mx-4">Products</a>
 				<a href="#footer" aria-label="Contact" className="mx-2 md:mx-4">Contact</a>
